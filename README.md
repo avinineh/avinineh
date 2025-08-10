@@ -7,7 +7,7 @@ I love building practical and exciting projects and always eager to learn new th
 - 🔭 I’m currently working on making webs
 - 🌱 I’m currently learning javascript
 - 💬 Ask me about my experience's
-- ## مهارت‌
+  
 ## 🛠 Skills
 
 <p>
