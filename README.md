@@ -4,10 +4,11 @@ im Avin, frontend developer & in love with making new experience's
 I love building practical and exciting projects and always eager to learn new things.
 
 
-- 🔭 I’m currently working on making webs
+- 🔭 I’m currently working on making projects
 - 🌱 I’m currently learning javascript
 - 💬 Ask me about my experience's
 - 🗣 Fluent in English and Persian
+- 🏋️‍♂️ calisthenics,bodybuilding & pro basketball
   
 ## 🛠 Skills
 
